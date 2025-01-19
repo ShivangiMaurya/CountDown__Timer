@@ -8,7 +8,6 @@ beautiful gradient effect applied to the text and various advanced CSS styles fo
 - Real-time countdown to a selected date and time.
 - Gradient text effect on the heading for a vibrant and stylish look.
 - Hover effects and smooth animations for interactive UI.
-- Cursive font and italicized text for enhanced visual appeal.
 - Shadow effects for text and timer elements.
 
 ## How it works
