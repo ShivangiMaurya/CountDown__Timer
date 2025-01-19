@@ -1,7 +1,7 @@
 
 # Countdown Timer 🚀
 
-This is a simple countdown timer built with HTML, CSS, and JavaScript. The timer allows users to select a future date and time, then countdown to it. It also features a 
+This is a countdown timer built with HTML, CSS, and JavaScript. The timer allows users to select a future date and time, then countdown to it. It also features a 
 beautiful gradient effect applied to the text and various advanced CSS styles for a modern and engaging user interface.
 
 ## Features
