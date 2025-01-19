@@ -32,7 +32,7 @@ When the countdown reaches 00:00:00:00, it will show the alert "Countdown finish
 - **JavaScript**: For interactivity and dynamic updates.
 
 ## Project Structure
-- counter-app
+- countdown-app
   
 ├── countdown.html      # HTML file for the app structure
 
