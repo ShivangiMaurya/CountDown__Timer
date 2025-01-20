@@ -23,6 +23,7 @@ Here’s a quick overview of how it works:
 - Once the countdown reaches zero, the timer stops, and an alert is shown: "Countdown finished!"
 
 ## For Example:
+
 If you select January 20, 2025, 12:00 PM and start the countdown on January 19, 2025, the timer will show something like:
 00 days : 23 hours : 59 minutes : 30 seconds (if you started it 30 seconds before the target time).
 When the countdown reaches 00:00:00:00, it will show the alert "Countdown finished!".
