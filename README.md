@@ -11,6 +11,7 @@ beautiful gradient effect applied to the text and various advanced CSS styles fo
 - Shadow effects for text and timer elements.
 
 ## How it works
+
 The countdown timer will show you how much time is remaining until the future date and time that you select.
   
 Here’s a quick overview of how it works:
