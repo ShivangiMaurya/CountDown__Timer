@@ -29,7 +29,6 @@ If you select January 20, 2025, 12:00 PM and start the countdown on January 19, 
 When the countdown reaches 00:00:00:00, it will show the alert "Countdown finished!".
 
 ## Technologies Used
-
 - **HTML5**: For structuring the application.
 - **CSS3**: For styling and layout.
 - **JavaScript**: For interactivity and dynamic updates.
