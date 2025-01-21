@@ -5,7 +5,6 @@ This is a countdown timer built with HTML, CSS, and JavaScript. The timer allows
 beautiful gradient effect applied to the text and various advanced CSS styles for a modern and engaging user interface.
 
 ## Features
-
 - Real-time countdown to a selected date and time.
 - Gradient text effect on the heading for a vibrant and stylish look.
 - Hover effects and smooth animations for interactive UI.
